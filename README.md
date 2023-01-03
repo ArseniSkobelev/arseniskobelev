@@ -6,9 +6,6 @@
 ### <div align="center">I'm Arseni, a young fullstack webdeveloper in the making. Join me on my journey today!</div>  
   
 
-- 🔭 I have a minimalistic artistic portfolio [here](https://arseniskobelev.com)  
-  
-
 - 🌱 I’m currently learning DevOps  
   
 
